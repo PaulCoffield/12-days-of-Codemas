@@ -14,7 +14,7 @@ Code written to follow along with the 12 Days of Codemas projects from [ThePiHut
 
 
 
-## Day #2: Let’s Get Blinky! [(link)][https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-2-let-s-get-blinky]
+## Day #2: Let’s Get Blinky! [(link)](https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-2-let-s-get-blinky)
 
 - Created your first circuit!
 - Learnt how to use the time module to add delays to programs
