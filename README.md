@@ -12,6 +12,18 @@ Code written to follow along with the 12 Days of Codemas projects from [ThePiHut
 - Learnt about the print function
 - Controlled a physical component with code
 
-Resources:
+
+
+## Day #2: Let’s Get Blinky! [(link)][https://thepihut.com/blogs/raspberry-pi-tutorials/maker-advent-calendar-day-2-let-s-get-blinky]
+
+- Created your first circuit!
+- Learnt how to use the time module to add delays to programs
+- Learnt how to use while loops and conditions
+- Learnt about variables (our counter)
+- Learnt about code commentary
+- Created a dashing, flashing sequence of LEDs
+
+## Resources:
 Raspberry Pi Pico Pinout map [PDF](https://cdn.shopify.com/s/files/1/0176/3274/files/Pico-R3-A4-Pinout_f22e6644-b3e4-4997-a192-961c55fc8cae.pdf?v=1664490511)
 
+[Fritzing](https://fritzing.org/) - Used for creating breadboard wiring diagrams.
